@@ -1,4 +1,4 @@
-package org.ticket.booking.services;
+package ticket.booking.services;
 
 public class UserBookingService {
 }

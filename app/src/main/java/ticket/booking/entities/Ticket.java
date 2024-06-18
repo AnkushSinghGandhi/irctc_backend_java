@@ -1,4 +1,4 @@
-package org.ticket.booking.entities;
+package ticket.booking.entities;
 
 import java.util.Date;
 
