@@ -26,7 +26,8 @@
     <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
   </a>
 </p>
-#IRCTC Backend Project
+
+# IRCTC Backend Project
 
 ## Project Overview
 
