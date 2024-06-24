@@ -31,7 +31,7 @@
 
 ## Project Overview
 
-The IRCTC Backend Project is a Java based application designed to facilitate train ticket booking. It supports user sign-up, login, fetching bookings, searching for trains, booking seats, and canceling bookings. The application simulates a real-world train booking system, providing users with a simple and intuitive interface to manage their train journeys.
+The IRCTC Backend Project is a Java based application designed to simulate a real-world train booking system. It supports user sign-up, login, fetching bookings, searching for trains, booking seats, and canceling bookings.
 
 ## Features
 
